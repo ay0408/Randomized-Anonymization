@@ -5,6 +5,12 @@ We proposed privacy-preserving methods for data sharing that satisfy both k-anon
 The proposed methods are
 k-RR (k-anonymization → randomized response), RR-k (randomized response → k-anonymization), and (ε,k)-Randomized Anonymization.
 
+## Important future problems
+
+・Developing k-anonymization methods more suited for integration with Randomized Response.
+
+・How to set appropriate values of ε and k for each medical information.
+
 ## Note
 
 For details of our mechanisms, please see our paper entitled "(ε, k)-Randomized Anonymization: ε-Differentially Private Data Sharing with k-Anonymity" (https://doi.org/10.5220/0011665600003414) presented at HEALTHINF 2023.
