@@ -18,7 +18,7 @@ For details of our mechanisms, please see our paper entitled "(ε, k)-Randomized
 Errata:
 
 ・p.289. 3.2.1
-  "When the following inequality holds: ε ≥" → "When the following inequality holds: e^ε ≥"
+  "When the following inequality holds: $ε ≥$" → "When the following inequality holds: $e^ε ≥$"
 
 ### Contact
 Akito Yamamoto
