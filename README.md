@@ -7,7 +7,7 @@ k-RR (k-anonymization → randomized response), RR-k (randomized response → k-
 
 ## Important future problems
 
-・Developing k-anonymization methods more suited for integration with Randomized Response.
+・Developing k-anonymization methods more suited for the integration with Randomized Response.
 
 ・How should we determine appropriate values of ε and k for each medical information?
 
