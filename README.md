@@ -9,7 +9,7 @@ k-RR (k-anonymization → randomized response), RR-k (randomized response → k-
 
 ・Developing k-anonymization methods more suited for the integration with Randomized Response.
 
-・Utilizing [OLH](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-wang-tianhao.pdf) instead of Randomized Response.
+・Utilizing Optiimized Local Hashing (OLH) [[Wang et al., 2017](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-wang-tianhao.pdf)] instead of Randomized Response.
 
 ・Improving handling of numeric (continuous value) data.
 
