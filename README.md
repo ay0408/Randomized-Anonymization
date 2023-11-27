@@ -5,11 +5,15 @@ We proposed privacy-preserving methods for data sharing that satisfy both k-anon
 The proposed methods are
 k-RR (k-anonymization → randomized response), RR-k (randomized response → k-anonymization), and (ε, k)-Randomized Anonymization.
 
-## Important future problems
+## Important future directions
 
 ・Developing k-anonymization methods more suited for the integration with Randomized Response.
 
-・How should we determine appropriate values of ε and k for each medical information?
+・Utilizing [OLH](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-wang-tianhao.pdf) instead of Randomized Response.
+
+・Improving handling of numeric (continuous value) data.
+
+(・How should we determine appropriate values of ε and k for each medical information?)
 
 ## Note
 
