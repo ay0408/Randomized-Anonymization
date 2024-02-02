@@ -5,7 +5,7 @@ We proposed privacy-preserving methods for data sharing that satisfy both k-anon
 The proposed methods are
 k-RR (k-anonymization → randomized response), RR-k (randomized response → k-anonymization), and (ε, k)-Randomized Anonymization.
 
-## Important Notes
+## Important Note
 
 Step 1 in Algorithms 1 and 3 in [our paper](https://doi.org/10.5220/0011665600003414) (k-RR and Randomized Anonymization) need not truly satisfy $k$(or $k'$)-anonymity. Rather, it is essential that the partitioning is dataset-independent for satisfying differential privacy (and for Theorems 1 and 3). In our experiments, for the sake of simplicity, we apply a rigorous $k$-anonymization method for their Step 1, but in practice, a fixed partitioning method should be used, such that approximately $k$-anonymity is satisfied. (Please also see Errata below.)
 
