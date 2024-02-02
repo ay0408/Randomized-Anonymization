@@ -28,8 +28,8 @@ Errata:
 ・p.289. 3.2.1
   "When the following inequality holds: $ε ≥$" → "When the following inequality holds: $e^ε ≥$"  
 
-・Algorithm 1, Step 1. "each cluster has" → "each cluster is expected to have"  
-・Algorithm 3, Step 1. "each cluster has" → "each cluster is expected to have"
+・Algorithm 1, Step 1. "each cluster has at least $k$ tuples." → "each cluster is expected to have at least $k$ tuples, using a dataset-independent partitioning method."  
+・Algorithm 3, Step 1. "each cluster has at least $k'$ tuples." → "each cluster is expected to have at least $k'$ tuples, using a dataset-independent partitioning method."
 
 ### Contact
 Akito Yamamoto
