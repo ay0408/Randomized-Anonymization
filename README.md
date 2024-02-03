@@ -3,7 +3,9 @@
 We proposed privacy-preserving methods for data sharing that satisfy both k-anonymity and ε-differential privacy.
 
 The proposed methods are
-k-RR (k-anonymization → randomized response), RR-k (randomized response → k-anonymization), and (ε, k)-Randomized Anonymization.
+k-RR (k-anonymization → randomized response), RR-k (randomized response → k-anonymization), and (ε, k)-Randomized Anonymization. Please note that k-RR method does not strictly satisfy $k$-anonymity.
+
+This GitHub page provides algorithm examples of these three methods.
 
 ## Important Note
 
