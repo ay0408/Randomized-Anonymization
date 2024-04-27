@@ -17,7 +17,7 @@ Step 1 in Algorithms 1 and 3 in [our paper](https://doi.org/10.5220/001166560000
 
 ・Utilizing Optiimized Local Hashing (OLH) [[Wang et al., 2017](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-wang-tianhao.pdf)] instead of Randomized Response.
 
-・Improving the handling of numeric (continuous value) data.
+・Improving the handling of numeric data (by utilizing some variation of the Piecewise Mechanism (PM) [[Wang et al., 2019](https://doi.ieeecomputersociety.org/10.1109/ICDE.2019.00063)], for example).
 
 (・How should we determine appropriate values of ε and k for each medical information?)
 
